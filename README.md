@@ -1,0 +1,1 @@
+En este proyecto se siguieron todos los lineamientos y enseñanzas expuestas en el curso de backend del desarrollador Mouredev. Un curso muy completo y muy intuitivo que fortalece las habilidades tanto de programación como de desarrollo, enseñando los primeros pasos para implementar los conceptos de backend en el lenguaje python usando visual studio code
